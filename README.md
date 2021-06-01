@@ -17,7 +17,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Live Demo
 
-[Live Demo Link](XXXXXXXXXXXXXXXXXXXXXXXXX)
+[Live Demo Link](https://polinastamenova.github.io/Module-1-Hello-Microverse-project/)
 
 ## Instructions
 
@@ -25,7 +25,7 @@ To get a local copy up and running follow these simple example steps.
 
 $ cd <folder>
 
-$ git clone https://polinastamenova.github.io/Library/
+$ git clone git@github.com:PolinaStamenova/Module-1-Hello-Microverse-project.git
 
 ### Install
 
@@ -47,7 +47,7 @@ $ git clone https://polinastamenova.github.io/Library/
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/PolinaStamenova/Module-1-Hello-Microverse-project/issues).
 
 ## Show your support
 
@@ -57,7 +57,3 @@ Give a ⭐️ if you like this project!
 
 - Hat tip to anyone whose code was used
 - Microverse
-
-## 📝 License
-
-This project is [MIT](lic.url) licensed.
