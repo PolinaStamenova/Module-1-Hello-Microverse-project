@@ -57,7 +57,3 @@ Give a ⭐️ if you like this project!
 
 - Hat tip to anyone whose code was used
 - Microverse
-
-## 📝 License
-
-This project is [MIT](lic.url) licensed.
